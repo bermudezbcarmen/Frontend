@@ -1,0 +1,66 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-image: url("../img/Background.png");
+    
+}
+
+main {
+    width: 960px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+footer{
+    background-color: #1e5379;
+    color: white;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;
+}
+
+.logoBatman {
+    position: relative;
+    width: 100px;
+    height: 147px;
+    left: 840px;
+    top: 21px
+}
+h1.titulo {
+    background-color: #C4C4C4;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 10px;
+    padding: 8px;
+}
+
+h1, h2 {
+    background-color: #C4C4C4;
+    color: #1e5379;
+    font-size: 20px;
+    letter-spacing: 5px;
+    padding: 4px;
+    padding-left: 15px;
+}
+
+ul.datosPersonales li span.titulo{
+    font-style: italic;
+    line-height: 1.5;
+}
+
+.descripcion{
+    display: block;
+    padding-left: 80px;
+}
+
+.titulo {
+    font-weight: bold;
+}
+
+.logo {
+    margin-left: 20px;
+}

@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+    color: #3C2313;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.top{
+    background-color: black;
+    color: white;
+    font-size: 13px;
+}
+
+.menu{
+    background-color: #F0A83E;
+    color: white
+
+}
+
+.slide{
+    background-image: url(../img/foto.png);
+    background-size: cover;
+    height:620px;
+    text-align: center;
+}
+
+.mensajeBienvenida{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.promocion{
+    font-size: 16px;
+    font-weight:bold;
+}
+
+.comederos{
+    background-color: #F0A83E;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h4{
+    font-weight: bold;
+}
+
+h5{
+    color: #F0A83E;
+}
+
+.derechosreservados{
+    background-color:#222222;
+    color:white;
+    font-size: 10px;
+    text-align: center;
+}
+
+.contacto {
+    background-color: #3C2313;
+    color:white;
+    font-size: 10px;
+}
+h3{
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+}
